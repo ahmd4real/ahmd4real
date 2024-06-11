@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed ALaa</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Alaa</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
 - 🔭 I’m currently working on **Tawsela App**
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ahmd4real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ahmd4real" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ahmd4real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ahmd4real" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ahmed_m4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="A7med_M4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmed_m4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ahmed_M4" height="30" width="40" /></a>
 </p>
