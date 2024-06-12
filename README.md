@@ -25,6 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmd4real&show_icons=true&locale=en&layout=compact" alt="ahmd4real" /></p>
 
-[![ahmd4real's GitHub | Languages Over Time](https://stats.quine.sh/ahmd4real/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ahmd4real)
-
-[![ahmd4real's GitHub | Stats](https://stats.quine.sh/ahmd4real/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ahmd4real)
+[![ahmd4real's GitHub | Languages Over Time](https://stats.quine.sh/ahmd4real/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ahmd4real)[![ahmd4real's GitHub | Stats](https://stats.quine.sh/ahmd4real/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ahmd4real)
